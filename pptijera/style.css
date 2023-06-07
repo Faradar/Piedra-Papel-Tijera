@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Kavoon&display=swap');
+
+* {
+	box-sizing: border-box;
+    text-align: center;
+    font-family: 'Kavoon', cursive;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+
+img:hover {
+    transform: scale(1.3);
+}
